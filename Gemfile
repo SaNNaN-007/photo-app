@@ -19,6 +19,9 @@ gem 'devise-bootstrap-views'
 gem 'jquery'
 gem 'jquery-rails'
 
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
 gem 'webpacker', '~> 5.0'
